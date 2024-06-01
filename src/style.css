@@ -1,0 +1,25 @@
+
+html{
+  font-size: 16px;
+  font-family: 'Inter Tight',sans-serif;
+}
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Inter',sans-serif;
+  font-weight: 600;
+}
+.navbar-brand{
+  font-family: 'Major Mono Display',sans-serif;
+  font-size:30px;
+}
+
+#intro{
+  font-size: 30px;
+  font-family: 'DM Serif Display',sans-serif;
+  font-weight: 200;
+  
+}
+#about{
+  font-weight: 400;
+  font-size:20px;
+  font-family: 'Inter Tight',sans-serif;
+}
